@@ -1,0 +1,14 @@
+.list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+
+.section {
+  text-align: left;
+}
+
+.title {
+  margin: 20px 0;
+  font-size: 30px;
+}/*# sourceMappingURL=UserList.module.css.map */
